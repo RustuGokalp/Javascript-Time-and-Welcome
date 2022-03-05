@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 26px;
+    color: #F88908;
+    letter-spacing: 3px;
+    padding-top: 5%;
+}
+.user-name {
+    font-size: 26px;
+}
+.clock {
+    font-size: 40px;
+    letter-spacing: 5px;
+}
